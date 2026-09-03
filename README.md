@@ -11,7 +11,7 @@
     <td valign="top">
       <br><br>
       <p><b>🌸 about me:</b><br>
-      software engineering student at PUCPR ◦ 19y ◦ she/her
+      software engineering student at PUCPR ◦ 19y 
       <br><br>
       → i am a quick and flexible learner, eager to adapt to new challenges, my main interest is in software development, with a specific focus on backend development. 
         </p>
